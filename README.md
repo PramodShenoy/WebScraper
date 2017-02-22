@@ -2,7 +2,8 @@
 A web scraper in python that lists top 20 words related to a query from wikipedia</br>
 This can be used in building Recommender Systems and also in NLP 
 
-<b>Install missing dependencies using ``pip install module name``
+<b>Install missing dependencies using ``pip install module name``</b>
+
 </br>BeautifulSoup
 </br>requests
 </br>oeprator
