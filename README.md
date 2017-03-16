@@ -11,7 +11,7 @@ This can be used in building Recommender Systems and also in NLP
 * tabulate
 * stop_words or nltk 
 
-##Running the code
+## Running the code
 ``python scraping.py term_to_be_searched true``<p>
 ``true for removing stop words,false otherwise``
 
